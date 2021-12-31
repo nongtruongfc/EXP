@@ -1,0 +1,9 @@
+Xin tặng cộng đồng Evondev tài liệu, link hữu ích mà mình sưu tầm trong năm nay (Nhờ ae up bài hộ ạ 😂) :
+1. Công cụ kéo thả Lib Tailwind, Bootstrap hiện đại, mình thấy rất ngon: https://shuffle.dev/
+2. Tổng hợp UI web xịn, chọn lọc: https://www.uihut.com/home
+3. Design system, lib Frontend mới cho ae tham khảo: https://imperavi.com/superkube/
+4. Kết quả research frontend 2021: https://uxtools.co/survey-2021
+5. Các website thiết kế được giải thưởng: https://www.awwwards.com/websites/nuxt-js/
+6. Các mẫu thiết kế cho website Saas: https://www.saasframe.io/
+7. Collection tổng hợp UI : https://www.uisources.com/
+8. Hình ảnh nhân vật dùng cho nhiều tình huống: https://storytale.io/browse

@@ -1,0 +1,22 @@
+php bin/magento setup:upgrade
+
+php bin/magento setup:static-content:deploy -f
+
+php bin/magento cache:clean
+
+php bin/magento cache:flush
+
+php bin/magento indexer:reindex
+
+php bin/magento setup:di:compile
+
+<?php $block->renderFileLessToCss(); ?>
+
+vendor\magento\module-store\Controller\Store\SwitchAction.php
+vendor\magento\module-grouped-product\view\base\templates\product\price\final_price.phtml
+
+chmod -R 777
+sudo chmod -R 755
+sudo -H -u www-data -- php bin/magento setup:di:compile
+
+

@@ -1,0 +1,36 @@
+We(&9x+3R#,AGI
+
+php_value max_execution_time 300
+
+//Logo 
+
+    'footer_logo' => [ 
+        'name' => 'crop_image',
+        'label' => esc_html__('Logo', 'rozer'),
+        'description' => esc_html__('Please insert Logo Footer', 'rozer'),
+        'section' => 'footer_logo_section',   
+        'selector'  =>  '.logo-footer',
+        'height'    =>  28,
+        'width'     =>  84,
+        'flex_width'       => false, 
+        'flex_height'       => false,
+    ],
+
+
+thiEnhAbetcc 789BeTsiTe or ThaBeT
+src="data:image/svg+xml,%20%3Csvg%20viewBox%3D%220%200%20224%20156%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3C%2Fsvg%3E"
+
+DELETE FROM `wp_postmeta` WHERE post_id NOT IN (SELECT ID FROM `wp_posts`)
+
+
+u565305424.vasia
+~l2z0+y!UBO7
+
+Mã hoá đơn
+375093
+
+ShynhHouse Spa
+
+
+
+

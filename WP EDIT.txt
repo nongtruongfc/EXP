@@ -1,0 +1,40 @@
+1. Set chuyen config header: 
+
+\inc\admin\customizer\header\header-layout.php
+
+2. Doi menu khac
+
+\inc\frontend\header.php dong 185
+
+3. Config home
+
+inc\helpers\theme-configs.php
+
+4. Them icon vao elementor
+
+assets\js\admin\elementor\rt-icons.js
+
+6. Fix sua footer_before_content ko hien thi luon trong admin
+
+inc/admin/customizer/footer/footer.php
+
+trong bang footer_before_content bo dong : 'transport'   => 'postMessage',
+
+5. Fix countdown quickview
+
+file theme.js dong 1676 tim " theme.wooInitZoom(); " thay bang 
+if(this.isProductPage){
+		    theme.wooInitZoom();
+		}
+
+
+
+7. Fix loi countdown trong trang SHOP
+
+theme.countDownBlock();
+
+e thêm vào dưới dòng này
+
+$('.rozer-close-side').removeClass('rozer-close-side-open')
+
+trong file theme.js trong hàm shopAjaxActions

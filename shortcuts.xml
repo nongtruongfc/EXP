@@ -1,0 +1,1136 @@
+<NotepadPlus>
+    <InternalCommands />
+    <Macros>
+        <Macro name="Trim Trailing Space and Save" Ctrl="no" Alt="yes" Shift="yes" Key="83">
+            <Action type="2" message="0" wParam="42024" lParam="0" sParam="" />
+            <Action type="2" message="0" wParam="41006" lParam="0" sParam="" />
+        </Macro>
+		
+		<Macro name="REPLACE CSS to LESS" Ctrl="no" Alt="no" Shift="no" Key="0">
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--productnamecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@productnamecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--pagecontentbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@pagecontentbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--rowspace)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@rowspace" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--bodyfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@bodyfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--textcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@textcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--textsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@textsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--textselectedcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@textselectedcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--textselectedbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@textselectedbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headingfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headingfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headingcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headingcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--heading_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@heading_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--menufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@menufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--menucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@menucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--menu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@menu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--menu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@menu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--linkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@linkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--linkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@linkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--linkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@linkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--dropdownfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@dropdownfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--dropdown_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@dropdown_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--dropdown_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@dropdown_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--dropdowncolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@dropdowncolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--dropdownbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@dropdownbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--submenufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@submenufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--submenu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@submenu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--submenu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@submenu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--submenucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@submenucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--submenubg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@submenubg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriesfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriesfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categories_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categories_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categories_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categories_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriescolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriescolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categorieslabelbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categorieslabelbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriesbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriesbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriessubmenufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriessubmenufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriessubmenu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriessubmenu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriessubmenu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriessubmenu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriessubmenucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriessubmenucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--categoriessubmenubg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@categoriessubmenubg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--pricefont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@pricefont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--price_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@price_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--price_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@price_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--pricecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@pricecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--pricesalecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@pricesalecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--primarycolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@primarycolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--salecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@salecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--saletextcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@saletextcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--ratecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@ratecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--bordercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@bordercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerstickybg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerstickybg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerstickycolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerstickycolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerstickylinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerstickylinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerstickylinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerstickylinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--headerstickylinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@headerstickylinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--footerbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@footerbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--footercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@footercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--footerlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@footerlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--footerlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@footerlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--footerlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@footerlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--topbarbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@topbarbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--topbarcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@topbarcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--topbarlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@topbarlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--topbarlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@topbarlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="var(--topbarlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="@topbarlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+		</Macro>
+		
+		<Macro name="REPLACE LESS to CSS" Ctrl="no" Alt="no" Shift="no" Key="0">
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--productnamecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@productnamecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--pagecontentbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@pagecontentbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--rowspace)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@rowspace" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--bodyfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@bodyfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--textcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@textcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--textsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@textsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--textselectedcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@textselectedcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--textselectedbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@textselectedbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headingfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headingfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headingcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headingcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--heading_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@heading_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--menufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@menufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--menucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@menucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--menu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@menu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--menu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@menu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--linkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@linkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--linkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@linkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--linkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@linkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--dropdownfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@dropdownfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--dropdown_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@dropdown_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--dropdown_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@dropdown_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--dropdowncolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@dropdowncolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--dropdownbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@dropdownbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--submenufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@submenufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--submenu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@submenu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--submenu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@submenu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--submenucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@submenucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--submenubg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@submenubg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriesfont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriesfont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categories_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categories_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categories_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categories_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriescolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriescolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categorieslabelbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categorieslabelbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriesbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriesbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriessubmenufont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriessubmenufont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriessubmenu_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriessubmenu_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriessubmenu_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriessubmenu_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriessubmenucolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriessubmenucolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--categoriessubmenubg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@categoriessubmenubg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--pricefont)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@pricefont" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--price_fontsize)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@price_fontsize" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--price_fontweight)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@price_fontweight" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--pricecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@pricecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--pricesalecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@pricesalecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--primarycolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@primarycolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--salecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@salecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--saletextcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@saletextcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--ratecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@ratecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--bordercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@bordercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerstickybg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerstickybg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerstickycolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerstickycolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerstickylinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerstickylinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerstickylinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerstickylinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--headerstickylinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@headerstickylinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--footerbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@footerbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--footercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@footercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--footerlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@footerlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--footerlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@footerlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--footerlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@footerlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--topbarbg)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@topbarbg" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--topbarcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@topbarcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--topbarlinkcolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@topbarlinkcolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--topbarlinkhovercolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@topbarlinkhovercolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+			
+			<Action type="0" message="2316" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1700" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1602" wParam="0" lParam="0" sParam="var(--topbarlinkactivecolor)" />
+			<Action type="3" message="1625" wParam="0" lParam="0" sParam="" />
+			<Action type="3" message="1601" wParam="0" lParam="0" sParam="@topbarlinkactivecolor" />
+			<Action type="3" message="1702" wParam="0" lParam="512" sParam="" />
+			<Action type="3" message="1701" wParam="0" lParam="1609" sParam="" />
+		</Macro>
+    </Macros>
+	
+    <UserDefinedCommands>
+		<!--
+		The following shortcuts are dangerous if your computer is compromised.
+		(But if your computer is compromised, EVERYTHING IS DANGEROUS!)
+		Remove the comment and use them at your own risk!!!
+
+        <Command name="Launch in Firefox" Ctrl="yes" Alt="yes" Shift="yes" Key="88">firefox &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Launch in IE" Ctrl="yes" Alt="yes" Shift="yes" Key="73">iexplore &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Launch in Chrome" Ctrl="yes" Alt="yes" Shift="yes" Key="82">chrome &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Launch in Safari" Ctrl="yes" Alt="yes" Shift="yes" Key="65">safari &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+        <Command name="Send via Outlook" Ctrl="yes" Alt="yes" Shift="yes" Key="79">outlook /a &quot;$(FULL_CURRENT_PATH)&quot;</Command>
+		-->
+        <Command name="Get PHP help" Ctrl="no" Alt="yes" Shift="no" Key="112">https://www.php.net/$(CURRENT_WORD)</Command>
+        <Command name="Wikipedia Search" Ctrl="no" Alt="yes" Shift="no" Key="114">https://en.wikipedia.org/wiki/Special:Search?search=$(CURRENT_WORD)</Command>
+        <Command name="Open file in another instance" Ctrl="no" Alt="yes" Shift="no" Key="117">$(NPP_FULL_FILE_PATH) $(CURRENT_WORD) -nosession -multiInst</Command>
+    </UserDefinedCommands>
+    <PluginCommands />
+    <ScintillaKeys />
+</NotepadPlus>

@@ -1,0 +1,8 @@
+SELECT * FROM `oc_seo_url` WHERE store_id = 0 and language_id = 1
+
+oc_order_status
+
+
+SELECT * FROM `oc_attribute_description` WHERE `language_id` > 1
+
+SELECT * FROM `oc_attribute_description` WHERE `language_id` = 2 or `language_id` = 3 or `language_id` = 4 or `language_id` = 5 or `language_id` = 6 or `language_id` = 7 or `language_id` = 8 or `language_id` = 9 or `language_id` = 10 or `language_id` = 11 or `language_id` = 12 or `language_id` = 13;

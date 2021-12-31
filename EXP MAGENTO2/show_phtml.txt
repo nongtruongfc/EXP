@@ -1,0 +1,7 @@
+In XML
+
+<block class="Magento\Framework\View\Element\Template" name="block_group" template="Magento_Cms::block-group.phtml" after="-"/>
+
+In PHTML
+
+<?php echo $this->getLayout()->createBlock('Plazathemes\Bestsellerproduct\Block\Bestsellerproduct')->setTemplate('bestsellerproduct.phtml')->toHtml();?> 

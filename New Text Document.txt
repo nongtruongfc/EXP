@@ -1,0 +1,16 @@
+<VirtualHost *:80>
+ <Directory "D:/XAMPP8/htdocs/opencart3020new/dv_umar">
+  Options Indexes FollowSymLinks Includes ExecCGI
+  AllowOverride All
+  Order allow,deny
+  Allow from all
+ </Directory>
+ DocumentRoot "D:/XAMPP8/htdocs/opencart3020new/dv_umar"
+ ServerName  umar1.com
+</VirtualHost>
+
+if (file_exists(DIR_TEMPLATE . $this->config->get('theme_' . $this->config->get('config_theme') . '_directory') . '/stylesheet/plaza/slider/slider.css')) {
+                $this->document->addStyle('catalog/view/theme/'.$this->config->get('theme_' . $this->config->get('config_theme') . '_directory').'/stylesheet/plaza/slider/slider.css');
+            } else {
+                $this->document->addStyle('catalog/view/theme/default/stylesheet/plaza/slider/slider.css');
+            }

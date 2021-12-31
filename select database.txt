@@ -1,0 +1,20 @@
+﻿SELECT * FROM `oc_layout_module` WHERE `layout_id` = 1 or `layout_id` = 2 or `layout_id` = 3 or `layout_id` = 4 or `layout_id` = 6 or `layout_id` = 14 or `layout_id` = 15;
+SELECT * FROM `oc_layout_module` WHERE `layout_id` = 16 or `layout_id` = 17 or `layout_id` = 18 or `layout_id` = 19 or `layout_id` = 20 or `layout_id` = 21 or `layout_id` = 22;
+SELECT * FROM `oc_layout_module` WHERE `layout_id` = 23 or `layout_id` = 24 or `layout_id` = 25 or `layout_id` = 26 or `layout_id` = 27 or `layout_id` = 28 or `layout_id` = 29;
+SELECT * FROM `oc_layout_module` WHERE `layout_id` = 30 or `layout_id` = 31 or `layout_id` = 32 or `layout_id` = 33 or `layout_id` = 34 or `layout_id` = 35 or `layout_id` = 36;
+		
+
+SELECT * FROM `oc_layout_route` WHERE `layout_id` = 1 or `layout_id` = 2 or `layout_id` = 3 or `layout_id` = 4 or `layout_id` = 6 or `layout_id` = 14 or `layout_id` = 15;	
+SELECT * FROM `oc_layout_route` WHERE `layout_id` = 16 or `layout_id` = 17 or `layout_id` = 18 or `layout_id` = 19 or `layout_id` = 20 or `layout_id` = 21 or `layout_id` = 22;
+SELECT * FROM `oc_layout_route` WHERE `layout_id` = 23 or `layout_id` = 24 or `layout_id` = 25 or `layout_id` = 26 or `layout_id` = 27 or `layout_id` = 28 or `layout_id` = 29;
+SELECT * FROM `oc_layout_route` WHERE `layout_id` = 30 or `layout_id` = 31 or `layout_id` = 32 or `layout_id` = 33 or `layout_id` = 34 or `layout_id` = 35 or `layout_id` = 36;
+
+
+SELECT * FROM `oc_setting` WHERE CODE LIKE "module_pt%"
+
+module_ptcontrolpanel_header_layout   ["1"]
+
+
+
+
+
